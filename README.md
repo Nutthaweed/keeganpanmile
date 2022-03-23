@@ -1,4 +1,4 @@
-# Styled-components + react-parallax + eslint + reactjs
+# Styled-components + react-parallax + eslint + reactjs + prettier
 <img src='https://i.ibb.co/vs9qN8V/keeganpanmile.jpg'/>
 
 
