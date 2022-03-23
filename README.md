@@ -1,3 +1,10 @@
+# Styled-components + react-parallax + eslint + reactjs
+<img src='https://i.ibb.co/vs9qN8V/keeganpanmile.jpg'/>
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
