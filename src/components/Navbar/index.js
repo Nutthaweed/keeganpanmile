@@ -9,7 +9,7 @@ const Navbar = () => {
           <img src={require('../../img/logo.png')} alt='logo' />
         </Info>
         <Bars />
-        <Text>Panmile Paisantanajit</Text>
+        <Text href='/Portfolio'>Panmile Paisantanajit</Text>
         <NavMenu>
           <Info href='https://www.facebook.com/panmile.paisantanajit' activeStyle>
             Facebook

@@ -21,13 +21,13 @@ export const Info = styled.a`
     cursor: pointer;
 
     &.active {
-        color: #15cdfc;
+        color: white;
     }
 `
 
 export const Bars = styled(FaBars)`
     display: none;
-    color: #fff;
+    color: white;
 
     @media screen and (max-width: 768px) {
       display: block;
@@ -50,8 +50,9 @@ export const NavMenu = styled.div`
     }
 `
 
-export const Text = styled.text`
+export const Text = styled.a`
     display: flex;
     align-items: center;
     margin-left: -160px;
+    color: white;
 `
