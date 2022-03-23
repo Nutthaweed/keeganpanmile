@@ -4,7 +4,7 @@ import AboutKeegan from '../img/keegan2.jpg'
 const ImageTwo = () => (
     <Parallax className="image"blur={0} bgImage={AboutKeegan} bgImageAlt="keegan1" strength={800}>
        <div className="keeganabout">
-           <span className="img-text">My Education</span>
+           <span className="img-text">Contact</span>
        </div>
     </Parallax>
 )

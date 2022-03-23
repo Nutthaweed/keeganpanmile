@@ -55,4 +55,6 @@ export const Text = styled.a`
     align-items: center;
     margin-left: -160px;
     color: white;
+    font-size: 20px;
+    text-align: center;
 `
